@@ -73,3 +73,11 @@ h2{
     padding:18px;
     text-align:center;
 }
+.about{
+    max-width:900px;
+    margin:70px auto;
+    text-align:center;
+    line-height:1.8;
+    color:#d8d8d8;
+    padding:0 20px;
+}
