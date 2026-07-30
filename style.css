@@ -81,3 +81,19 @@ h2{
     color:#d8d8d8;
     padding:0 20px;
 }
+.contact{
+    text-align:center;
+    padding:60px 20px;
+    background:#181818;
+    margin-top:60px;
+}
+
+.contact a{
+    color:#ffffff;
+    text-decoration:none;
+    margin:0 10px;
+}
+
+.contact a:hover{
+    color:#00c3ff;
+}
